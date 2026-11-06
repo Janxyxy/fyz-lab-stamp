@@ -1,0 +1,47 @@
+{
+  "1": {
+    "0": "Měření rozměrů, určení objemu a experimentální odhad čísla π",
+    "1": "Určení modulu pružnosti ve smyku dynamickou metodou a stanovení momentu setrvačnosti",
+    "2": "Studium volného pádu a měření tíhového zrychlení",
+    "3": "Boyleův-Mariottův zákon",
+    "4": "Stanovení tíhového zrychlení reverzním kyvadlem",
+    "5": "Měření viskozity kapalin Stokesovou metodou",
+    "6": "Měření součinitele tepelné vodivosti kovů",
+    "7": "Určení modulu pružnosti ve smyku dynamickou metodou a stanovení momentu setrvačnosti",
+    "8": "Studium volného pádu a měření tíhového zrychlení",
+    "9": "Boyleův-Mariottův zákon",
+    "10": "Stanovení tíhového zrychlení reverzním kyvadlem",
+    "11": "Měření teplotního součinitele délkové roztažnosti"
+  },
+  "2": {
+    "0": "Měření objemu tuhých těles",
+    "1": "Určení modulu pružnosti ve smyku dynamickou metodou a stanovení momentu setrvačnosti",
+    "2": "Stanovení měrného náboje elektronu",
+    "3": "Studium volného pádu a měření tíhového zrychlení",
+    "4": "Měření magnetických polí",
+    "5": "Měření viskozity kapalin Stokesovou metodou",
+    "6": "Měření permitivity dielektrik",
+    "7": "Měření síly působící na proudovodič",
+    "8": "Studium mechanických kmitů - Pohlovo kyvadlo",
+    "9": "Měření charakteristik palivového článku",
+    "10": "Stanovení tíhového zrychlení reverzním kyvadlem",
+    "11": "Měření teplotního součinitele rezistivity kovů"
+  },
+  "3": {
+    "1": "Stanovení Boltzmannovy konstanty pomocí voltampérové charakteristiky PN přechodu tranzistoru",
+    "2": "Studium polarizace světla - Fresnelovy vzorce",
+    "3": "Měření součinitele tepelné vodivosti kovů",
+    "4": "Měření absorpce ionizujícího záření v materiálech",
+    "5": "Měření rychlosti zvuku ve vzduchu sonarovou metodou",
+    "6": "Měření na Peltierově článku",
+    "7": "Fraunhoferův ohyb světla na štěrbině a mřížce",
+    "8": "Studium fotoefektu a stanovení Planckovy konstanty",
+    "8b": "Vnější fotoelektrický jev",
+    "9": "Měření teplotního součinitele délkové roztažnosti",
+    "10": "Franckův-Hertzův pokus a stanovení excitační energie atomu rtuti",
+    "11": "Měření Dopplerova jevu",
+    "12": "Měření ohniskových vzdáleností čoček",
+    "13": "Stefanův-Boltzmannův zákon",
+    "14": "Boyleův-Mariottův zákon"
+  }
+}

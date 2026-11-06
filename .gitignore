@@ -1,0 +1,17 @@
+# Personal data (copy data.example.json)
+data.json
+
+# Generated stamps
+*_filled.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
